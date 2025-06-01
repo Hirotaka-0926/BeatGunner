@@ -4,7 +4,8 @@ using UnityEngine.Playables;
 public enum Mode
 {
     Saber,
-    Boxing
+    Boxing,
+    Gunner
 }
 
 namespace VRBeats
